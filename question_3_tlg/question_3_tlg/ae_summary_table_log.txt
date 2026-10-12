@@ -1,0 +1,7 @@
+TEAE summary table created successfully using gtsummary.
+Finished: 2026-10-12 20:07:33.617757
+Participants: 254
+Unique TEAE terms: 230
+TEAE source records: 1122
+HTML output: /cloud/project/question_3_tlg/ae_summary_table.html
+Validation checks passed.

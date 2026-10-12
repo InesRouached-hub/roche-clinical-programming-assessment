@@ -1,0 +1,6 @@
+Adverse event visualizations created successfully.
+Finished: 2026-10-12 20:16:53.332739
+TEAE records: 1122
+Severity plot: /cloud/project/question_3_tlg/ae_severity_by_treatment.png
+Top 10 AE plot: /cloud/project/question_3_tlg/top10_aes_95ci.png
+Validation checks passed.
