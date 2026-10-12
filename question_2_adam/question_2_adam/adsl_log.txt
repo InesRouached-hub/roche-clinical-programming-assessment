@@ -1,0 +1,10 @@
+Started: 2026-10-12 19:51:50.657818
+ADSL creation completed successfully.
+Finished: 2026-10-12 19:51:50.657466
+Number of subjects: 306
+Number of variables: 35
+Missing TRTSDTM: 52
+Missing TRTSTMF: 52
+Missing LSTAVLDT: 0
+Duplicate USUBJID values: 0
+Validation checks passed.
