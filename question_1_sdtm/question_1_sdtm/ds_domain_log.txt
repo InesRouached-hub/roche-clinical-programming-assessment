@@ -1,0 +1,5 @@
+DS domain creation completed.
+Number of records: 850
+Number of subjects: 306
+Missing DSSTDY values: 52
+Validation checks passed.
